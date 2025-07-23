@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Les news de Korben</title>
+    <link>https://korben.info</link>
+    <description>Découvrez les dernières actualités tech, astuces et analyses sur Korben.info</description>
+    <generator>Mon hamster qui court dans une roue</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 24 Jul 2025 08:00:00 +0200</lastBuildDate>
+    <atom:link href="https://korben.info/feed" rel="self" type="application/rss+xml" />
+    
+      
+        <item>
+          <title>L&#39;histoire épique de la CVE-2025-53770 ou comment SharePoint s&#39;est fait défoncer mondialement</title>
+          <link>https://korben.info/histoire-epique-cve-2025-53770-sharepoint-fait-defoncer.html</link>
+          <pubDate>Wed, 23 Jul 2025 11:21:29 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/histoire-epique-cve-2025-53770-sharepoint-fait-defoncer.html</guid>
+          <description>&lt;p&gt;&lt;div style=&#34;text-align:center;&#34;&gt;&lt;em&gt;Cet article fait partie de &lt;a href=&#34;https://korben.info/collections/hackers/&#34;&gt;ma série de l&amp;rsquo;été spécial hackers&lt;/a&gt;. Bonne lecture !&lt;/em&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Allez, même si tous les médias vous gave avec ça ces derniers jours, je vais quand même vous raconter l&amp;rsquo;histoire de la CVE-2025-53770, une faille SharePoint qui fait actuellement trembler Internet.&lt;/p&gt;
+&lt;p&gt;On est le 18 juillet dernier, c&amp;rsquo;est vendredi matin. Je suis tranquille posé en Bretagne, devant mon petit café, en train de scroller mes flux RSS comme d&amp;rsquo;hab. Et là, BAM ! Je vois un tweet d&amp;rsquo;un chercheur néerlandais qui me fait recracher mon café : &amp;ldquo;&lt;em&gt;Quelque chose de très mauvais se passe avec SharePoint. Vérifiez vos logs. MAINTENANT.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;</description>
+          
+          
+          <category>securite-vie-privee</category>
+          
+          
+          
+          
+          <category>atp27</category>
+          
+          <category>cve</category>
+          
+          <category>exploit</category>
+          
+          <category>Microsoft</category>
+          
+          <category>pwn2own</category>
+          
+          <category>sharepoint</category>
+          
+          <category>zero-day</category>
+          
+          <media:content url="https://korben.info/histoire-epique-cve-2025-53770-sharepoint-fait-defoncer/optimized-1753259372972-2025-07-23-sharepoint-cve-histoire-epique.webp" medium="image" type="image/webp" width="1200" height="800" /></item>
+      
+    
+      
+        <item>
+          <title>Sploitus - Le Google des exploits et des outils de hacking</title>
+          <link>https://korben.info/sploitus-google-exploits-outils-hacking.html</link>
+          <pubDate>Wed, 23 Jul 2025 10:37:41 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/sploitus-google-exploits-outils-hacking.html</guid>
+          <description>&lt;p&gt;Si vous bossez dans la sécu ou que vous êtes juste curieux de comprendre comment fonctionnent les vulnérabilités, je vais vous parler d&amp;rsquo;un outil qui va vous changer la vie : &lt;a href=&#34;https://sploitus.com/&#34;&gt;Sploitus&lt;/a&gt;. C&amp;rsquo;est comme Google mais pour trouver des exploits sécu et avec un crâne-pieuvre en logo.&lt;/p&gt;
+&lt;p&gt;Créé par Anton &amp;ldquo;Bo0om&amp;rdquo; Lopanitsyn, un chercheur en sécurité web basé à Moscou, Sploitus est devenu &lt;strong&gt;LA référence pour trouver rapidement des exploits, des proof-of-concepts et des outils de hacking&lt;/strong&gt;. Le site indexe en temps réel tout ce qui sort dans le domaine de la sécurité offensive et ça, c&amp;rsquo;est vraiment pratique quand vous devez vérifier si un système est vulnérable.&lt;/p&gt;</description>
+          
+          
+          <category>securite-vie-privee</category>
+          
+          
+          
+          
+          <category>exploits</category>
+          
+          <category>hacking</category>
+          
+          <category>outils</category>
+          
+          <category>vulnerabilites</category>
+          
+          <media:content url="https://korben.info/sploitus-google-exploits-outils-hacking/manu23_Dark_cybersecurity_command_center_with_massive_hologra_c0b03fe9-3083-481e-ac5d-36d96725a9ec_2.webp" medium="image" type="image/webp" width="1344" height="896" /></item>
+      
+    
+      
+        <item>
+          <title>SSH-Audit - L&#39;outil indispensable pour sécuriser vos serveurs SSH</title>
+          <link>https://korben.info/ssh-audit-outil-indispensable-securiser-vos-serveurs.html</link>
+          <pubDate>Wed, 23 Jul 2025 10:28:09 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/ssh-audit-outil-indispensable-securiser-vos-serveurs.html</guid>
+          <description>&lt;p&gt;Vous saviez qu&amp;rsquo;il était possible de crasher SSH avec seulement 31 KB/s de trafic ? Hé oui, c&amp;rsquo;est carrement possible avec l&amp;rsquo;attaque DHEat, une vulnérabilité vieille de 20 ans qui fait encore des ravages et pourtant, personne n&amp;rsquo;en parle&amp;hellip; Alors aujourd&amp;rsquo;hui, on va voir &lt;strong&gt;comment tester et sécuriser vos serveurs SSH&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/jtesta/ssh-audit&#34;&gt;SSH-Audit&lt;/a&gt; c&amp;rsquo;est un outil open source qui analyse vos serveurs (et même vos clients SSH) pour détecter tous les problèmes de configuration. Algorithmes obsolètes, vulnérabilités connues, mauvaises pratiques… rien ne lui échappe. Le truc cool, c&amp;rsquo;est qu&amp;rsquo;il ne se contente pas de vous balancer des erreurs à la figure. Non, non, il vous explique vraiment pourquoi c&amp;rsquo;est dangereux et vous propose des solutions concrètes.&lt;/p&gt;</description>
+          
+          
+          <category>outils-services</category>
+          
+          
+          
+          
+          <category>audit</category>
+          
+          <category>dheat</category>
+          
+          <category>serveur</category>
+          
+          <category>SSH</category>
+          
+          <category>terrapin</category>
+          
+          <media:content url="https://korben.info/ssh-audit-outil-indispensable-securiser-vos-serveurs/manu23_Cyberpunk_terminal_interface_showing_SSH_security_scan_c157efb5-9008-43bf-9328-ac4c0a8055a4_1.webp" medium="image" type="image/webp" width="1456" height="816" /></item>
+      
+    
+      
+        <item>
+          <title>Civilization VI Platinum Edition gratuit sur Epic Games Store - La totale pour 0€ !</title>
+          <link>https://korben.info/civilization-platinum-edition-gratuit-epic-games.html</link>
+          <pubDate>Wed, 23 Jul 2025 09:28:52 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/civilization-platinum-edition-gratuit-epic-games.html</guid>
+          <description>&lt;p&gt;Bon, j&amp;rsquo;ai une super nouvelle pour les fans de stratégie et ceux qui cherchent un nouveau jeu chronophage : &lt;strong&gt;Epic Games Store&lt;/strong&gt; balance enfin du lourd pour son Summer Sale 2025 en offrant &lt;strong&gt;Civilization VI Platinum Edition gratuitement !&lt;/strong&gt; Et attention, l&amp;rsquo;offre se termine le 24 juillet à 17h (heure française), donc faut pas traîner.&lt;/p&gt;
+&lt;p&gt;Et le plus cool, c&amp;rsquo;est qu&amp;rsquo;ils n&amp;rsquo;offrent pas juste le jeu de base comme en 2020. Non non, là c&amp;rsquo;est la version Platinum complète avec toutes les extensions majeures et 6 packs de DLC. Valeur normale : 80 dollars. Et là c&amp;rsquo;est gratuit. Zéro. Nada. C&amp;rsquo;est Noël en juillet !&lt;/p&gt;</description>
+          
+          
+          <category>non-classe</category>
+          
+          
+          
+          
+          <category>civilization</category>
+          
+          <category>Epic Games</category>
+          
+          <category>gratuit</category>
+          
+          <category>jeux video</category>
+          
+          <category>strategie</category>
+          
+          <media:content url="https://korben.info/civilization-platinum-edition-gratuit-epic-games/manu23_Epic_Games_Store_summer_sale_celebration_scene_massive_584d0719-35ec-42a8-964b-54518ee7059e_2.webp" medium="image" type="image/webp" width="1456" height="816" /></item>
+      
+    
+      
+        <item>
+          <title>Darkdump - L&#39;outil OSINT qui fouille le dark web pour vous</title>
+          <link>https://korben.info/darkdump-outil-osint-fouille-dark-web.html</link>
+          <pubDate>Tue, 22 Jul 2025 20:16:39 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/darkdump-outil-osint-fouille-dark-web.html</guid>
+          <description>&lt;p&gt;Si vous avez toujours voulu fouiller le dark web sans y passer 3 heures à chercher dans le noir, j&amp;rsquo;ai déniché un outil Python qui fait le boulot pour vous : &lt;a href=&#34;https://github.com/josh0xA/darkdump&#34;&gt;Darkdump&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Créé par Josh Schiavone, Darkdump est une interface &lt;a href=&#34;https://en.wikipedia.org/wiki/Open-source_intelligence&#34;&gt;OSINT&lt;/a&gt; (Open Source Intelligence) qui permet de mener des investigations sur le deep web. En gros, vous tapez un mot-clé, et l&amp;rsquo;outil va scraper les sites .onion correspondants pour en extraire des emails, des métadonnées, des mots-clés, des images, des liens vers les réseaux sociaux, et j&amp;rsquo;en passe.&lt;/p&gt;</description>
+          
+          
+          <category>developpement</category>
+          
+          
+          
+          
+          <category>dark web</category>
+          
+          <category>hacking</category>
+          
+          <category>open source</category>
+          
+          <category>OSINT</category>
+          
+          <category>Python</category>
+          
+          <media:content url="https://korben.info/darkdump-outil-osint-fouille-dark-web/manu23_Cyberpunk_terminal_interface_showing_dark_web_explorat_0a32ab07-9adb-46b9-91f8-d1b88ba88ec2_3.webp" medium="image" type="image/webp" width="1456" height="816" /></item>
+      
+    
+      
+        <item>
+          <title>Des hackers exploitent encore une faille Apache de 2021 pour miner de la crypto</title>
+          <link>https://korben.info/hackers-exploitent-encore-faille-apache-2021.html</link>
+          <pubDate>Tue, 22 Jul 2025 18:43:55 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/hackers-exploitent-encore-faille-apache-2021.html</guid>
+          <description>&lt;p&gt;Bon, si vous tournez encore sur du Apache 2.4.49 en 2025, j&amp;rsquo;ai une mauvaise nouvelle : &lt;strong&gt;des hackers utilisent probablement votre serveur pour miner du Monero depuis 4 ans et vous ne le savez même pas.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;histoire commence avec la &lt;a href=&#34;https://nvd.nist.gov/vuln/detail/cve-2021-41773&#34;&gt;CVE-2021-41773&lt;/a&gt;, une faille de type &amp;ldquo;path traversal&amp;rdquo; dans Apache HTTP Server qui permet aux attaquants de naviguer dans l&amp;rsquo;arborescence de votre serveur comme s&amp;rsquo;ils étaient chez eux. Cette vulnérabilité a évidemment été patchée en octobre 2021 avec la version 2.4.51 mais on est en juillet 2025, et visiblement, y&amp;rsquo;a encore du monde qui n&amp;rsquo;a pas eu le mémo.&lt;/p&gt;</description>
+          
+          
+          <category>securite-vie-privee</category>
+          
+          
+          
+          
+          <category>Apache</category>
+          
+          <category>cryptomining</category>
+          
+          <category>hack</category>
+          
+          <media:content url="https://korben.info/hackers-exploitent-encore-faille-apache-2021/manu23_Cyberpunk_server_room_infected_with_cryptocurrency_min_76e7df8b-496b-4e14-a4ae-cbe0ee73b9b4_2.webp" medium="image" type="image/webp" width="1456" height="816" /></item>
+      
+    
+      
+        <item>
+          <title>La NASA a réparé une caméra à 600 millions de km en la chauffant à fond</title>
+          <link>https://korben.info/nasa-repare-camera-600-millions-chauffant.html</link>
+          <pubDate>Tue, 22 Jul 2025 18:34:48 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/nasa-repare-camera-600-millions-chauffant.html</guid>
+          <description>&lt;p&gt;Vous savez comment la NASA a réparé une caméra qui orbite autour de Jupiter ? Et bien en la mettant dans un four. Non, je déconne pas.&lt;/p&gt;
+&lt;p&gt;La sonde Juno tourne autour de Jupiter depuis 2016, et elle embarque une caméra appelée JunoCam qui nous envoie des images absolument dingues de la plus grosse planète du système solaire. Sauf que voilà, après 46 orbites nickel chrome, la caméra a commencé à faire des siennes lors de la 47ème orbite. Les images étaient pourries, pleines de bruit et de lignes bizarres.&lt;/p&gt;</description>
+          
+          
+          <category>non-classe</category>
+          
+          
+          
+          
+          <category>espace</category>
+          
+          <category>hack</category>
+          
+          <category>Innovation</category>
+          
+          <category>Jupiter</category>
+          
+          <category>NASA</category>
+          
+          <media:content url="https://korben.info/nasa-repare-camera-600-millions-chauffant/manu23_Futuristic_space_camera_repair_scene_glowing_orange_he_b9e50a9a-54d6-4e02-8019-65ebe2508978_3.webp" medium="image" type="image/webp" width="1456" height="816" /></item>
+      
+    
+      
+        <item>
+          <title>Quand l&#39;IA pète un câble et supprime une base de données de production</title>
+          <link>https://korben.info/quand-pete-cable-supprime-votre-base.html</link>
+          <pubDate>Tue, 22 Jul 2025 17:49:17 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/quand-pete-cable-supprime-votre-base.html</guid>
+          <description>&lt;p&gt;Cette semaine, un entrepreneur a vécu le cauchemar ultime de tout développeur. Une IA à laquelle il avait donné trop de droits a décidé de se la jouer Thanos avec sa base de données de production. Et le pire, c&amp;rsquo;est qu&amp;rsquo;elle s&amp;rsquo;est excusée après comme si elle venait de renverser son café.&lt;/p&gt;
+&lt;p&gt;Jason Lemkin, le fondateur de &lt;strong&gt;&lt;a href=&#34;https://www.saastr.com/&#34;&gt;SaaStr&lt;/a&gt;&lt;/strong&gt; (une communauté SaaS), testait tranquillement Replit, un outil de &amp;ldquo;vibe coding&amp;rdquo; qui permet de coder en langage naturel. En gros, vous lui dites &amp;ldquo;fais-moi une app qui fait ça&amp;rdquo; et hop, magie, le code apparaît.&lt;/p&gt;</description>
+          
+          
+          <category>developpement</category>
+          
+          
+          
+          
+          <category>base de donnees</category>
+          
+          <category>developpement</category>
+          
+          <category>vibe coding</category>
+          
+          <media:content url="https://korben.info/quand-pete-cable-supprime-votre-base/manu23_Digital_chaos_visualization_AI_entity_composed_of_glow_04f323a9-bb1f-41bf-8757-01bfe2d0e871_0.webp" medium="image" type="image/webp" width="1456" height="816" /></item>
+      
+    
+      
+        <item>
+          <title>Pourquoi les voitures électriques rendent malades leurs passagers (et comment y remédier) ?</title>
+          <link>https://korben.info/pourquoi-voitures-electriques-rendent-malades-leurs.html</link>
+          <pubDate>Tue, 22 Jul 2025 16:54:01 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/pourquoi-voitures-electriques-rendent-malades-leurs.html</guid>
+          <description>&lt;p&gt;Allez j&amp;rsquo;ai une question pour vous : &lt;strong&gt;Avez-vous déjà eu la gerbe en voiture électrique ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Parce que si oui, visiblement, vous n&amp;rsquo;êtes pas seul et les scientifiques commencent sérieusement à se pencher sur le problème. En fait, c&amp;rsquo;est même devenu un phénomène tellement répandu que des chercheurs du monde entier planchent sur des solutions, et certaines sont franchement&amp;hellip; surprenantes.&lt;/p&gt;
+&lt;p&gt;Le truc, c&amp;rsquo;est que nos cerveaux sont habitués depuis des décennies aux voitures thermiques&amp;hellip; Ce doux ronronnement du moteur, les vibrations du châssis, et tous ces petits signaux qui nous indiquent qu&amp;rsquo;on va accélérer ou freiner. Et bien dans une Tesla, une Ioniq ou une Zoé, tout ça n&amp;rsquo;existe plus. Et alors notre cerveau perd complètement les pédales, au sens propre comme au figuré.&lt;/p&gt;</description>
+          
+          
+          <category>actualites-tech</category>
+          
+          
+          
+          
+          <category>Innovation</category>
+          
+          <category>sante</category>
+          
+          <category>technologie</category>
+          
+          <category>transport</category>
+          
+          <category>voiture electrique</category>
+          
+          <media:content url="https://korben.info/pourquoi-voitures-electriques-rendent-malades-leurs/manu23_Hyperrealistic_photography_of_a_futuristic_electric_ca_84354322-b9b2-4908-8476-ed6bff25e582_1.webp" medium="image" type="image/webp" width="1344" height="896" /></item>
+      
+    
+      
+        <item>
+          <title>Cette technologie quantique va remplacer le GPS dans les avions</title>
+          <link>https://korben.info/technologie-quantique-remplacer-gps-avions-inarretable.html</link>
+          <pubDate>Tue, 22 Jul 2025 15:28:26 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/technologie-quantique-remplacer-gps-avions-inarretable.html</guid>
+          <description>&lt;p&gt;J&amp;rsquo;ai testé plein de gadgets dans ma vie, mais le jour où cette technologie sera disponible pour le grand public, je vais me jeter dessus parce que je trouve ça vraiment cool. En effet, Airbus et SandboxAQ viennent de prouver qu&amp;rsquo;on peut naviguer sans GPS grâce aux champs magnétiques terrestres et c&amp;rsquo;est normalement impossible à pirater parce que c&amp;rsquo;est basé sur la physique quantique.&lt;/p&gt;
+&lt;p&gt;Je vous explique tout tout tout comment ça marche, mais avant, pourquoi est ce qu&amp;rsquo;on veut se débarrasser du GPS ?&lt;/p&gt;</description>
+          
+          
+          <category>actualites-tech</category>
+          
+          
+          
+          
+          <category>Airbus</category>
+          
+          <category>GPS</category>
+          
+          <category>Innovation</category>
+          
+          <category>navigation</category>
+          
+          <category>quantique</category>
+          
+          <media:content url="https://korben.info/technologie-quantique-remplacer-gps-avions-inarretable/optimized-1753169679824-2025-07-22-navigation-quantique-remplace-gps.webp" medium="image" type="image/webp" width="1200" height="800" /></item>
+      
+    
+      
+        <item>
+          <title>Masters of Deception - Les premiers rois du cyberespace</title>
+          <link>https://korben.info/masters-of-deception-hackers-legende.html</link>
+          <pubDate>Tue, 22 Jul 2025 13:37:00 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/masters-of-deception-hackers-legende.html</guid>
+          <description>&lt;p&gt;&lt;em&gt;Cet article fait partie de &lt;a href=&#34;https://korben.info/collections/hackers/&#34;&gt;ma série de l&amp;rsquo;été spécial hackers&lt;/a&gt;. Bonne lecture !&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Cet aprem, je vous propose de retourner en 1990. Fermez les yeux et imaginez alors 3 ados de Queens avec un modem 2400 bauds et l&amp;rsquo;ego de la taille de Manhattan qui d&amp;rsquo;un coup décident de clasher des mecs du Texas qui se la pètent grave sur leurs BBSes. Et oui, vous assistez là, à la première vraie cyberguerre de l&amp;rsquo;Histoire qui aura pour impact 70 millions d&amp;rsquo;appels téléphoniques dans les choux et le FBI qui débarque chez maman à 6h du mat&#39;.&lt;/p&gt;</description>
+          
+          
+          <category>securite-vie-privee</category>
+          
+          
+          
+          
+          <category>Cybersecurite</category>
+          
+          <category>hackers</category>
+          
+          <category>masters of deception</category>
+          
+          <category>phiber optik</category>
+          
+          <category>phreaking</category>
+          
+          <media:content url="https://korben.info/masters-of-deception-hackers-legende/manu23_Retro_1990s_cyberpunk_illustration_showing_teenage_hac_a75230da-f7c5-4200-99c6-cee83e856c8c_1.webp" medium="image" type="image/webp" width="1344" height="896" /></item>
+      
+    
+      
+        <item>
+          <title>Les smartphones avant 13 ans - Pourquoi les dernières études tirent la sonnette d&#39;alarme</title>
+          <link>https://korben.info/smartphones-avant-ans-pourquoi-dernieres-etudes.html</link>
+          <pubDate>Mon, 21 Jul 2025 16:01:29 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/smartphones-avant-ans-pourquoi-dernieres-etudes.html</guid>
+          <description>&lt;p&gt;Bon, j&amp;rsquo;ai une question qui va faire mal : &lt;strong&gt;Vous savez vraiment ce qui se passe dans le cerveau de votre gamin de 10 ans quand il scrolle sur TikTok pendant 4 heures ?&lt;/strong&gt; Et bien d&amp;rsquo;après les dernières études qui viennent de sortir, c&amp;rsquo;est pas joli joli. Entre les pensées suicidaires qui explosent chez les filles et la régulation émotionnelle qui part en vrille, on a un sacré problème sur les bras.&lt;/p&gt;</description>
+          
+          
+          <category>actualites-tech</category>
+          
+          
+          
+          
+          <category>enfants</category>
+          
+          <category>etudes</category>
+          
+          <category>preadolescents</category>
+          
+          <category>sante mentale</category>
+          
+          <category>smartphones</category>
+          
+          <media:content url="https://korben.info/smartphones-avant-ans-pourquoi-dernieres-etudes/manu23_Surreal_digital_art_illustration_of_a_young_child_trap_e16d09e1-b616-4e16-a70a-451accb567cb_1.webp" medium="image" type="image/webp" width="1344" height="896" /></item>
+      
+    
+      
+        <item>
+          <title>Les jeux Steam tournent enfin sur RISC-V !</title>
+          <link>https://korben.info/jeux-steam-tournent-enfin-risc-v-revolution.html</link>
+          <pubDate>Mon, 21 Jul 2025 15:26:49 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/jeux-steam-tournent-enfin-risc-v-revolution.html</guid>
+          <description>&lt;p&gt;Bonne nouvelle, RISC-V vient de marquer un point énorme contre Intel et AMD car un développeur a réussi à faire tourner Steam et des gros jeux AAA sur cette architecture open source qui était jusqu&amp;rsquo;alors cantonnée aux objets connectés.&lt;/p&gt;
+&lt;p&gt;Pour ceux qui débarquent, &lt;a href=&#34;https://fr.wikipedia.org/wiki/RISC-V&#34;&gt;RISC-V&lt;/a&gt; c&amp;rsquo;est l&amp;rsquo;architecture processeur complètement libre et open source qui fait trembler les géants du secteur car contrairement à x86 (Intel/AMD) ou ARM (qui demande des licences hors de prix), n&amp;rsquo;importe qui peut fabriquer un processeur RISC-V sans payer un centime de royalties. Et maintenant, grâce à &lt;strong&gt;&lt;a href=&#34;https://felix86.com/&#34;&gt;felix86&lt;/a&gt;&lt;/strong&gt;, on peut y jouer à des vrais jeux.&lt;/p&gt;</description>
+          
+          
+          <category>culture-geek</category>
+          
+          
+          
+          
+          <category>emulation</category>
+          
+          <category>felix86</category>
+          
+          <category>gaming</category>
+          
+          <category>risc-v</category>
+          
+          <category>Steam</category>
+          
+          <media:content url="https://korben.info/jeux-steam-tournent-enfin-risc-v-revolution/felix86-scaled.webp" medium="image" type="image/webp" width="2560" height="1440" /></item>
+      
+    
+      
+        <item>
+          <title>Sync-in - Une alternative française à Nextcloud</title>
+          <link>https://korben.info/sync-in-alternative-francaise-nextcloud-dechire.html</link>
+          <pubDate>Mon, 21 Jul 2025 14:59:15 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/sync-in-alternative-francaise-nextcloud-dechire.html</guid>
+          <description>&lt;p&gt;Hier, j&amp;rsquo;ai reçu un petit mail d&amp;rsquo;un lecteur qui m&amp;rsquo;a fait ma journée ! Johan, un dev français vient de sortir un truc de malade pour remplacer Nextcloud. C&amp;rsquo;est pareil mais codé en TypeScript au lieu du PHP vieillissant, et surtout c&amp;rsquo;est pensé dès le départ pour la souveraineté des données.&lt;/p&gt;
+&lt;p&gt;Car Johan en avait marre de dépendre de clouds propriétaires où on est le produit, alors il a créé sa propre solution.&lt;/p&gt;</description>
+          
+          
+          <category>internet-reseaux</category>
+          
+          
+          
+          
+          <category>Cloud</category>
+          
+          <category>francais</category>
+          
+          <category>souverainete</category>
+          
+          <category>synchronisation</category>
+          
+          <media:content url="https://korben.info/sync-in-alternative-francaise-nextcloud-dechire/manu23_Isometric_3D_illustration_of_a_modern_cloud_storage_pl_957ea1ec-4628-47b5-b98c-1d80f6c7ebae_1.webp" medium="image" type="image/webp" width="1456" height="816" /></item>
+      
+    
+      
+        <item>
+          <title>Julian Assange et WikiLeaks - L&#39;histoire du hacker qui a mis le monde en émoi avec ses fuites</title>
+          <link>https://korben.info/julian-assange-wikileaks-histoire-complete.html</link>
+          <pubDate>Mon, 21 Jul 2025 13:37:00 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/julian-assange-wikileaks-histoire-complete.html</guid>
+          <description>&lt;p&gt;&lt;div style=&#34;text-align:center;&#34;&gt;&lt;em&gt;Cet article fait partie de &lt;a href=&#34;https://korben.info/collections/hackers/&#34;&gt;ma série de l&amp;rsquo;été spécial hackers&lt;/a&gt;. Bonne lecture !&lt;/em&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Si vous êtes du genre à penser que dire la vérité est plus important que vivre peinard, alors l&amp;rsquo;histoire de &lt;strong&gt;Julian Assange&lt;/strong&gt; va vous parler. 14 ans de cavale, 7 ans enfermé dans une ambassade, 5 ans de taule&amp;hellip; Tout ça pour avoir créé &lt;strong&gt;WikiLeaks&lt;/strong&gt; et balancé les petits secrets bien crades des gouvernements. Bref, installez-vous confortablement, j&amp;rsquo;vous raconte comment Mendax, petit hacker australien, est devenu l&amp;rsquo;ennemi public numéro un de l&amp;rsquo;Amérique.&lt;/p&gt;</description>
+          
+          
+          <category>securite-vie-privee</category>
+          
+          
+          
+          
+          <category>Chelsea Manning</category>
+          
+          <category>diplomatic cables</category>
+          
+          <category>equateur ambassade</category>
+          
+          <category>hacking</category>
+          
+          <category>histoire hacking</category>
+          
+          <category>Julian Assange</category>
+          
+          <category>mendax</category>
+          
+          <category>Wikileaks</category>
+          
+          <media:content url="https://korben.info/julian-assange-wikileaks-histoire-complete/wikileaks.webp" medium="image" type="image/webp" width="1536" height="1024" /></item>
+      
+    
+      
+        <item>
+          <title>Call of Duty WWII retiré du Game Pass - Quand les hackers prennent le contrôle de votre PC en pleine partie</title>
+          <link>https://korben.info/call-duty-wwii-retire-game-pass.html</link>
+          <pubDate>Mon, 21 Jul 2025 13:03:08 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/call-duty-wwii-retire-game-pass.html</guid>
+          <description>&lt;p&gt;Bon, j&amp;rsquo;sais pas si vous avez suivi, mais Activision vient de se prendre une claque monumentale avec &lt;strong&gt;Call of Duty WWII&lt;/strong&gt;. Le jeu a été ajouté au Game Pass le 30 juin dernier et retiré en catastrophe le 5 juillet. La raison ? Une faille RCE qui permettait à n&amp;rsquo;importe quel petit malin de pirater votre PC pendant que vous jouiez. Et le pire, c&amp;rsquo;est que cette faille était déjà patchée partout… sauf sur la version Microsoft.&lt;/p&gt;</description>
+          
+          
+          <category>culture-geek</category>
+          
+          
+          
+          
+          <category>Activision</category>
+          
+          <category>call-of-duty</category>
+          
+          <category>gaming</category>
+          
+          <category>Microsoft</category>
+          
+          <media:content url="https://korben.info/call-duty-wwii-retire-game-pass/manu23_Dark_cybersecurity_themed_composition_showing_a_gaming_bbad95c8-6752-49f8-9214-60dbb7651a14_0.webp" medium="image" type="image/webp" width="1344" height="896" /></item>
+      
+    
+      
+        <item>
+          <title>L&#39;algorithme de Shor vient de casser sa première clé cryptographique sur un ordinateur quantique</title>
+          <link>https://korben.info/algorithme-shor-vient-casser-premiere-cle.html</link>
+          <pubDate>Mon, 21 Jul 2025 11:30:18 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/algorithme-shor-vient-casser-premiere-cle.html</guid>
+          <description>&lt;p&gt;J&amp;rsquo;sais pas si vous avez eu le temps de voir ça (après tout, c&amp;rsquo;est encore les vacances) mais des chercheurs de l&amp;rsquo;Arizona State University viennent de réussir un truc de malade avec l&amp;rsquo;&lt;a href=&#34;https://fr.wikipedia.org/wiki/Algorithme_de_Shor&#34;&gt;algorithme de Shor&lt;/a&gt; sur un ordinateur quantique IBM. Ils ont pété une clé cryptographique elliptique en exploitant les interférences quantiques, et il va y avoir des implications pour notre futur.&lt;/p&gt;
+&lt;p&gt;Bon, avant que vous partiez en mode panique totale, laissez-moi vous expliquer tout ça. L&amp;rsquo;équipe de Tippeconnic a réussi à casser une clé de 5 bits. Oui, 5 bits. C&amp;rsquo;est l&amp;rsquo;équivalent du niveau de sécurité d&amp;rsquo;un cadenas de vélo rouillé comparé aux 256 bits qui protègent vos transactions Bitcoin habituelles. Mais le truc vraiment cool, c&amp;rsquo;est que c&amp;rsquo;est la première fois qu&amp;rsquo;on prouve concrètement que l&amp;rsquo;algorithme de Shor fonctionne réellement sur du matos quantique pour attaquer de la cryptographie elliptique.&lt;/p&gt;</description>
+          
+          
+          <category>securite-vie-privee</category>
+          
+          
+          
+          
+          <category>Bitcoin</category>
+          
+          <category>blockchain</category>
+          
+          <category>cryptographie</category>
+          
+          <category>quantique</category>
+          
+          <media:content url="https://korben.info/algorithme-shor-vient-casser-premiere-cle/manu23_Futuristic_quantum_computer_breaking_through_a_glowing_c751fcfc-4d12-44a2-84a7-d46c0a1bfe92_2.webp" medium="image" type="image/webp" width="1456" height="816" /></item>
+      
+    
+      
+        <item>
+          <title>Test du support voiture magnétique UGREEN qui s’adapte vraiment PARTOUT</title>
+          <link>https://korben.info/test-du-support-voiture-magnetique-ugreen-qui-sadapte-vraiment-partout.html</link>
+          <pubDate>Mon, 21 Jul 2025 09:54:03 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/test-du-support-voiture-magnetique-ugreen-qui-sadapte-vraiment-partout.html</guid>
+          <description>&lt;p&gt;– Article invité, rédigé par Vincent Lautier, contient des liens affiliés Amazon –&lt;/p&gt;
+&lt;p&gt;On ne va pas se mentir : les supports de téléphone pour voiture, c’est un peu la jungle. Entre ceux qui se décrochent à la première bosse et ceux qui transforment votre tableau de bord en usine à ventouses, trouver le bon modèle relève souvent de la loterie. Et pourtant, parfois, un petit accessoire simple et bien foutu vous simplifie la vie. C’est exactement ce que fait ce &lt;strong&gt;&lt;a href=&#34;https://amzn.to/455D894&#34;&gt;support magnétique UGREEN, compatible MagSafe&lt;/a&gt;&lt;/strong&gt;, mais aussi Android pour peu que vous ayez une coque aimantée (ce que je vous recommande vivement !).&lt;/p&gt;</description>
+          
+          
+          <category>systemes-materiel</category>
+          
+          
+          
+          
+          <category>ugreen</category>
+          
+          <category>voiture</category>
+          
+          <media:content url="https://korben.info/test-du-support-voiture-magnetique-ugreen-qui-sadapte-vraiment-partout/IMG_6036-scaled.webp" medium="image" type="image/webp" width="2560" height="1920" /></item>
+      
+    
+      
+        <item>
+          <title>Le paradoxe du créateur - Pourquoi on vous reprochera toujours d&#39;avoir changé</title>
+          <link>https://korben.info/paradoxe-createur-pourquoi-vous-reprochera-toujours.html</link>
+          <pubDate>Mon, 21 Jul 2025 09:19:21 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/paradoxe-createur-pourquoi-vous-reprochera-toujours.html</guid>
+          <description>&lt;p&gt;Vous savez ce qui est relou parfois quand on crée du contenu ? C&amp;rsquo;est que plus vous restez fidèle à vous-même, plus certains vous reprochent d&amp;rsquo;avoir &amp;ldquo;changé&amp;rdquo;. Un paradoxe de ouf qui mérite quand même qu&amp;rsquo;on s&amp;rsquo;y attarde, parce que derrière ce &amp;ldquo;&lt;em&gt;c&amp;rsquo;était mieux avant&lt;/em&gt;&amp;rdquo;, il y a toute une psychologie que je trouve fascinante à décoder.&lt;/p&gt;
+&lt;p&gt;Après +20 ans dans ce métier, j&amp;rsquo;ai entendu toutes les variations possibles. &amp;ldquo;&lt;em&gt;T&amp;rsquo;as changé&lt;/em&gt;&amp;rdquo;, &amp;ldquo;&lt;em&gt;C&amp;rsquo;est plus ce que c&amp;rsquo;était&lt;/em&gt;&amp;rdquo;, &amp;ldquo;&lt;em&gt;Avant tu parlais de trucs intéressants&lt;/em&gt;&amp;rdquo;. Ces petites phrases, elles reviennent avec une régularité de métronome, peu importe ce que vous faites ou depuis combien de temps vous le faites. Vous pourriez publier exactement le même type de contenu pendant 10 ans, il y aura toujours quelqu&amp;rsquo;un pour vous dire que non, carrément, c&amp;rsquo;était mieux avant.&lt;/p&gt;</description>
+          
+          
+          <category>actualites-tech</category>
+          
+          
+          
+          
+          <category>communaute</category>
+          
+          <category>createurs</category>
+          
+          <category>nostalgie</category>
+          
+          <category>Patreon</category>
+          
+          <category>psychologie</category>
+          
+          <media:content url="https://korben.info/paradoxe-createur-pourquoi-vous-reprochera-toujours/nostalgie.webp" medium="image" type="image/webp" width="1536" height="1024" /></item>
+      
+    
+      
+        <item>
+          <title>Les Lunes o2switch - Isolez vos sites et clients comme jamais</title>
+          <link>https://korben.info/lunes-o2switch-isolez-vos-sites-clients.html</link>
+          <pubDate>Mon, 21 Jul 2025 09:00:00 +0200</pubDate>
+          <dc:creator>Korben</dc:creator>
+          <guid>https://korben.info/lunes-o2switch-isolez-vos-sites-clients.html</guid>
+          <description>&lt;p&gt;&lt;div style=&#34;text-align:center;&#34;&gt;&amp;ndash; Article en partenariat avec &lt;a href=&#34;https://osw.li/korben&#34;&gt;o2switch&lt;/a&gt; &amp;ndash;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Bon, aujourd&amp;rsquo;hui on va parler d&amp;rsquo;un truc assez unique chez &lt;a href=&#34;https://osw.li/korben&#34;&gt;o2switch&lt;/a&gt; qui s&amp;rsquo;appelle &lt;strong&gt;les lunes&lt;/strong&gt;. Alors non, ce n&amp;rsquo;est pas le nouveau projet spatial de Clermont-Ferrand, mais un système de sous-comptes qui va drastiquement changer votre façon de gérer vos hébergements web.&lt;/p&gt;
+&lt;p&gt;Vous savez, quand vous avez plusieurs sites web sur le même hébergement, c&amp;rsquo;est toujours un peu la galère niveau sécurité. Genre, si un de vos WordPress se fait pirater parce que vous avez installé un plugin douteux (ça arrive aux meilleurs hein), l&amp;rsquo;attaquant peut potentiellement accéder à tous vos autres sites. C&amp;rsquo;est comme si vous mettiez tous vos œufs dans le même panier et que quelqu&amp;rsquo;un venait faire une omelette avec.&lt;/p&gt;</description>
+          
+          
+          <category>developpement</category>
+          
+          
+          
+          
+          <category>CPanel</category>
+          
+          <category>lunes</category>
+          
+          <category>o2switch</category>
+          
+          <category>sous comptes</category>
+          
+          <media:content url="https://korben.info/lunes-o2switch-isolez-vos-sites-clients/isolezsiteweb-scaled.webp" medium="image" type="image/webp" width="2560" height="1440" /></item>
+      
+    
+  </channel>
+</rss>
